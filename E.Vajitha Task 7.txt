@@ -115,13 +115,7 @@ Ans: <!DOCTYPE html>
     <td>20</td>
     <td>IT</td>
   </tr>
-  
-  <tr>
-    <td>Rahul</td>
-    <td>21</td>
-    <td>CSE</td>
-  </tr> 
-</table>
+  </table>
 
 </body>
 </html>
